@@ -2,6 +2,8 @@
 
 This directory holds all Python scripts and coding exercises. To keep things clean and easy to review, all Python files are kept flat here without complex subfolder nesting.
 
+***Note:** Use AI to save time, provided you check the code to ensure it follows the syllabus.*
+
 ## Standard Script Documentation Template
 
 To ensure every script is easy to learn from, each code file should ideally follow or include comments covering the following core sections:
