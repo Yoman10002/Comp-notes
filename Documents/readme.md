@@ -1,8 +1,17 @@
-# Documents
-
-**Folder & Content -**
-* **Official Notes:** This contains all official Notes given by the teacher.
-* **Notes:** This will contain all other types of notes. e.g Older exam papers/worksheets, own hand written notes, diagrams(with context).
-
 ---
-***Note:** Documents contains all theory and code related notes. and 'Notes' will NOT contain typed notes.*
+
+### `Documents/README.md`
+
+```markdown
+# Documents & Study Notes Directory
+
+This directory stores all theory, conceptual notes, and reference materials.
+
+## Structure
+
+*   **`Notes/`** - Personal summaries, revision notes, and self-made cheat sheets.
+*   **`Official Notes/`** - Direct handouts, PDFs, and reference files provided for coursework (e.g., Python basics, number systems, and networking concepts).
+
+## Guidelines for Adding Notes
+*   Keep document names clear and descriptive (use underscores instead of spaces, e.g., `Introduction_to_Python.md`).
+*   Ensure all official PDFs are correctly placed in the `Official Notes/` subfolder.
