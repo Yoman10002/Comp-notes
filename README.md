@@ -13,7 +13,6 @@ Welcome to my personal computer science repository! This space is organized to k
 
 ## Syllabus HYE
 Everything done up to Weekly Test *plus* the following:
-
 - SDLC
 	- Functional and Non-Functional requirement
 	- Version Control System
@@ -38,5 +37,7 @@ Everything done up to Weekly Test *plus* the following:
 	- Open file in Write, Append mode
 	- binary mode
 	- Copy image file
+
+---
 
 *Maintained for tracking programming progress and coursework.*
