@@ -1,5 +1,3 @@
-### Documents
-
 # Documents & Study Notes Directory
 
 This directory stores all theory, conceptual notes, and reference materials.
