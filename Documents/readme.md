@@ -8,5 +8,5 @@ This directory stores all theory, conceptual notes, and reference materials.
 *   **`Official Notes/`** - Direct handouts, PDFs, and reference files provided for syllabus.
 
 ## Guidelines for Adding Notes
-*   Keep document names clear and descriptive (use underscores instead of spaces, e.g., `Introduction_to_Python.md`).
+*   Keep document names clear and descriptive (use underscores instead of spaces, e.g., `Introduction_to_Python.md`, `Handwritten_notes.png`).
 *   Ensure all official PDFs are correctly placed in the `Official Notes/` subfolder.
