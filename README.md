@@ -1,6 +1,6 @@
 # Computer Study Repository
 
-Welcome to my personal computer science repository! This space is organized to keep all programming practice files and theoretical study notes clean, structured, and easy to navigate.
+Welcome to the computer study repository! This space is organized to keep all programming practice files and theoretical study notes clean, structured, and easy to navigate.
 
 ## Repository Structure
 
